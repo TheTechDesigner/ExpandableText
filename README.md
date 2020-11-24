@@ -1,16 +1,8 @@
-# expandable_text_example
+# Expandable Text
+## Useful Widget in Flutter App
 
-A new Flutter project.
 
-## Getting Started
+[![YouTube](https://img.youtube.com/vi/smpQQ7EoPX8/0.jpg)](https://youtu.be/zSjImzIsCXs "Expandable Text Useful Widget in Flutter App")
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo
+[![Demo](https://github.com/fweinaug/expandable_text/raw/master/example/example.png)](https://pub.dev/packages/expandable_text "The widget appends a configurable text link which let's the user expand the full text, or collapse it again.")
